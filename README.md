@@ -2,6 +2,12 @@
 
 Based in **San Francisco Bay Area, CA**, I am a **DevOps Engineer** with over five years of experience in building resilient, secure, and scalable cloud infrastructures. I strive to deliver robust solutions while continuously learning and improving. I am currently working on interesting projects (Scroll down to know what I am working on!).
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ---
 
 ## 🌟 **About Me**  
@@ -53,12 +59,3 @@ Based in **San Francisco Bay Area, CA**, I am a **DevOps Engineer** with over fi
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/colorkloud)  
 - ✉️ [Email](shafeeq.jms@gmail.com)  
 
----
-
-## 🎮 **GitHub Contributions Snake**  
-![GitHub Snake Contribution](https://github.com/shafeeqahmd/shafeeqahmd/raw/output/github-contribution-grid-snake.svg)  
-
----
-
-## 🎥 **Naruto Motivation**  
-![Naruto Gif](https://media.giphy.com/media/5SmbIPWc7JAJB15lLF/giphy.gif?cid=790b7611dyqtsu1rt1h4fzjpd1bjhgnwjsd7u0hm2oem5oac&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
