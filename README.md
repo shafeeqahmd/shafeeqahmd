@@ -20,22 +20,44 @@ Based in **San Francisco Bay Area, CA**, I am a **DevOps Engineer** with over fi
 
 ## 🛠️ **Tools & Technologies**  
 
-### **Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=flat&logo=digitalocean&logoColor=white)  ![Hetzner](https://img.shields.io/badge/Hetzner-%23FF0000.svg?style=flat&logo=hetzner&logoColor=white)  
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-### **Configuration Management & Automation**  
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat&logo=terraform&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)  
 
-### **Containerization & Orchestration**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)  
+### Programming Languages & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/bash/bash.png" alt="bash" title="Bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" title="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" title="ruby" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="HTML" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/css/css.png" alt="css" title="CSS" width="40" height="40"/>
+</p>
 
-### **Monitoring & Observability**  
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)  ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)  ![Icinga](https://img.shields.io/badge/Icinga-%234A90E2.svg?style=flat&logo=icinga&logoColor=white)  
+### Operating Systems
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" title="Linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="Ubuntu" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine-linux" title="Alpine Linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="CentOS" width="40" height="40"/> </p>
 
-### **Programming & Scripting**  
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+### Database Technologies
+<p align="left"> <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/mysql/mysql.png" alt="mysql" title="MySQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" width="40" height="40"/> </p> 
 
----
+### DevOps Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="azure" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digital ocean" title="digital ocean" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="helm" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" title="nginx" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" alt="haproxy" title="haproxy" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" title="cloudflare" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="Elasticsearch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" title="rabbitmq" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="prometheus" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/icinga/icinga-icon.svg" alt="icinga2" title="icinga2" width="40" height="40"/>  
+</p>
+
 
 ## 🌍 **What I'm Working On**  
 - 🚧 Transitioning multi-cloud workloads to **Azure** and **AWS**.  
@@ -57,5 +79,7 @@ Based in **San Francisco Bay Area, CA**, I am a **DevOps Engineer** with over fi
 - 💼 [LinkedIn](https://www.linkedin.com/in/shafeeq-ahamed-devops/)  
 - 🌐 [Portfolio](https://colorkloud.us)  
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/colorkloud)  
-- ✉️ [Email](shafeeq.jms@gmail.com)  
+- ✉️ Email: shafeeq.jms@gmail.com
+
+---
 
