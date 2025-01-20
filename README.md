@@ -71,8 +71,21 @@ Based in **San Francisco Bay Area, CA**, I am a **DevOps Engineer** with over fi
 
 ## 🏆 **Certifications**  
 - **AWS Certified DevOps Engineer – Professional**  
-- **AWS Certified SysOps Administrator – Associate**  
+- **AWS Certified SysOps Administrator – Associate**
 
+---
+## 🌟 Portfolio
+
+Here are few (of many) websites that I've created. Click on the buttons below to visit each:
+
+| Website Name     | Visit Link                                                                 |
+|------------------|---------------------------------------------------------------------------|
+| ColorKloud      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%201-blue)](https://colorkloud.us) |
+| Tails on Trails      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%202-blue)](https://tails.colorkloud.us) |
+| GreyKloud      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%203-blue)](https://grey.colorkloud.us) |
+| JNH      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%204-blue)](https://jn.colorkloud.us) |
+---
+For website development services contact me via LinkedIn for earliest reply.
 ---
 
 ## 📬 **Connect with Me**  
@@ -81,5 +94,6 @@ Based in **San Francisco Bay Area, CA**, I am a **DevOps Engineer** with over fi
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/colorkloud)  
 - ✉️ Email: shafeeq.jms@gmail.com
 
----
+
+
 
