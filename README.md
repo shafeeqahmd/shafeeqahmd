@@ -84,6 +84,7 @@ Here are few (of many) websites that I've created. Click on the buttons below to
 | Tails on Trails      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%202-blue)](https://tails.colorkloud.us) |
 | GreyKloud      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%203-blue)](https://grey.colorkloud.us) |
 | JNH      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%204-blue)](https://jn.colorkloud.us) |
+| TalART      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%204-blue)](https://talart.colorkloud.us) |
 ---
 For website development services contact me via LinkedIn for earliest reply.
 ---
