@@ -80,11 +80,12 @@ Here are few (of many) websites that I've created. Click on the buttons below to
 
 | Website Name     | Visit Link                                                                 |
 |------------------|---------------------------------------------------------------------------|
-| ColorKloud      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%201-blue)](https://colorkloud.us) |
+| ColorKloud      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%201-magenta)](https://colorkloud.us) |
 | Tails on Trails      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%202-green)](https://tails.colorkloud.us) |
 | GreyKloud      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%203-orange)](https://grey.colorkloud.us) |
 | JNH      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%204-white)](https://jn.colorkloud.us) |
-| TalART      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%205-purple)](https://talart.colorkloud.us) |
+| TalART      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%205-blue)](https://talart.colorkloud.us) |
+| Online Resume      | [![Visit Website](https://img.shields.io/badge/Visit-Portfolio%206-cyan)](https://shafeeq.colorkloud.us) |
 ---
 For website development services contact me via LinkedIn for earliest reply.
 ---
